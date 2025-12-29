@@ -298,6 +298,7 @@ vis.add_geometry(mesh)
 axis = o3d.geometry.TriangleMesh.create_coordinate_frame(size=0.1)
 vis.add_geometry(axis)
 
+
 # -----------------------------------------
 # ⑧ 添加坐标尺（比例尺）
 # -----------------------------------------
